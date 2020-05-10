@@ -5,6 +5,7 @@ public class deneme {
 		System.out.println("klsllfnldsdfkl");
 		System.out.println("bbbdeneme");
 		System.out.println("klsllfnldsdfkl");
+		System.out.println("makaldeneme");
 
 	}
 
